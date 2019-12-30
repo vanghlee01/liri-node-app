@@ -1,0 +1,28 @@
+====Begin Spotify Entry====
+Artist Name: H.E.R.
+Song TItle: Slide
+Song Preview Link: 
+Album: 
+====End Of Spotify Entry====
+
+
+//Psuedocode to log entry of searching for movies, songs, bands, and random texts.
+
+goConcert
+Concert Entry Begins here
+Name of Venue:
+Venue of Loction:
+Date of Event:
+
+logMovie
+Title: 
+IMDB Rating:
+Year Released:
+Rotten Tomatoes Ratings:
+Country it was produced in:
+Language:
+Plot:
+Actors:
+
+
+
